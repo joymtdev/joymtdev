@@ -11,7 +11,7 @@
 <p>And in this profile you can find some of my projects😉</p>
     </td>
     <td>
-    <img src="IMG_4591.PNG">
+    <img src="1342558_mTa6lqwt-2.png">
     </td>
   </tr>
 </table>
