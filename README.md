@@ -5,7 +5,7 @@
  <table border="0">
   <tr>
     <td>
-<p> Hello everyone my name is Joice, better known as Joy, I'm 17✨ years<p>
+<p> Hello everyone my name is Joice, better known as Joy, I'm 17 years✨<p>
 <p>I've always been very curious and questioning about EVERYTHING, knowing how things work makes me very happy and fulfilled and the more complex it is the better.<p>
 <p>I love challenges, they make me feel alive, in fact I think that without them life is a little boring. <p>
 <p>And in this profile you can find some of my projects😉</p>
